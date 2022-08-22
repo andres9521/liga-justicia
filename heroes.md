@@ -6,3 +6,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Flash
+* Chico Bestia
